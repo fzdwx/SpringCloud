@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5864d15-7f08-4eb5-a2dc-1e33703ac526" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Java\tool\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1glxzBVAA8yHdfjk8yfjjm1FlA0" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo&#10;mysql" />
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.1507799" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.like.sc.service.impl" />
+      <recent name="com.like.sc.dao" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lk.sc" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\project\SpringCloud\cloud-provider-payment8001\src\main\java\com\like\sc\dao" />
+      <recent name="D:\Java\project\SpringCloud\cloud.provider-payment8001\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CloudPayment8001">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rest-api#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" runType="运行单个请求">
+      <method v="2" />
+    </configuration>
+    <configuration name="PaymentServiceImplTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.like.sc.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.like.sc.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.like.sc.service.impl.PaymentServiceImplTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.like.sc在cloud-provider-payment8001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.like.sc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.like.sc" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudPayment8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.sc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.sc.CloudPayment8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP 请求.rest-api#1" />
+      <item itemvalue="JUnit.PaymentServiceImplTest.create" />
+      <item itemvalue="JUnit.com.like.sc在cloud-provider-payment8001" />
+      <item itemvalue="Spring Boot.CloudPayment8001" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CloudPayment8001" />
+        <item itemvalue="JUnit.com.like.sc在cloud-provider-payment8001" />
+        <item itemvalue="JUnit.PaymentServiceImplTest.create" />
+        <item itemvalue="HTTP 请求.rest-api#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5864d15-7f08-4eb5-a2dc-1e33703ac526" name="默认的" comment="" />
+      <created>1598703240614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598703240614</updated>
+      <workItem from="1598703246655" duration="2863000" />
+      <workItem from="1598706166602" duration="202000" />
+      <workItem from="1598712230980" duration="1735000" />
+      <workItem from="1598714001418" duration="362000" />
+      <workItem from="1598742986774" duration="7925000" />
+      <workItem from="1598759796476" duration="894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598759534357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598759534357" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1598705499162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598705499162" />
+    <state x="827" y="337" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598743044027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="337" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598743044027" />
+    <state x="617" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1598713416651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="617" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598713416651" />
+    <state x="587" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598713607837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598713607837" />
+    <state x="661" y="387" width="660" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598755989747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="387" width="660" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1598755989747" />
+    <state x="609" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598713839318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="609" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598713839317" />
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1598745128803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598745128803" />
+    <state x="440" y="94" key="#项目结构" timestamp="1598755788559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1598755788559" />
+    <state x="740" y="235" key="FileChooserDialogImpl" timestamp="1598743113068">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="235" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598743113068" />
+    <state width="1611" height="410" key="GridCell.Tab.0.bottom" timestamp="1598760698669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1611" height="410" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
+    <state width="1611" height="410" key="GridCell.Tab.0.center" timestamp="1598760698669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1611" height="410" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
+    <state width="1611" height="410" key="GridCell.Tab.0.left" timestamp="1598760698669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1611" height="410" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
+    <state width="1611" height="410" key="GridCell.Tab.0.right" timestamp="1598760698669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1611" height="410" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
+    <state width="1611" height="410" key="GridCell.Tab.1.bottom" timestamp="1598760698669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1611" height="410" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
+    <state width="1611" height="410" key="GridCell.Tab.1.center" timestamp="1598760698669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1611" height="410" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
+    <state width="1611" height="410" key="GridCell.Tab.1.left" timestamp="1598760698669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1611" height="410" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
+    <state width="1611" height="410" key="GridCell.Tab.1.right" timestamp="1598760698669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1611" height="410" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
+    <state x="531" y="335" width="858" height="583" key="Registry" timestamp="1598759721329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="335" width="858" height="583" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1598759721329" />
+    <state x="80" y="280" width="1517" height="711" key="SettingsEditor" timestamp="1598760689882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="80" y="280" width="1517" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598760689882" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1598755806822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1598755806822" />
+    <state x="801" y="420" key="UiDebugger" timestamp="1598759689822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="420" key="UiDebugger/0.0.1920.1040@0.0.1920.1040" timestamp="1598759689822" />
+    <state x="759" y="301" key="chooseDestDirectoryDialog" timestamp="1598755983513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="301" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598755983513" />
+    <state x="731" y="347" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598712692029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="347" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598712692029" />
+    <state x="490" y="180" key="new project wizard" timestamp="1598755742804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598755742804" />
+    <state x="643" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1598712554702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598712554702" />
+  </component>
+</project>
