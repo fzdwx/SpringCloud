@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5864d15-7f08-4eb5-a2dc-1e33703ac526" name="默认的" comment="" />
+    <list default="true" id="f5864d15-7f08-4eb5-a2dc-1e33703ac526" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,15 +28,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+        <option name="mavenHome" value="C:\Users\pdd20\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\Java\tool\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectId" id="1glxzBVAA8yHdfjk8yfjjm1FlA0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -62,26 +71,187 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.1507799" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.like.sc.service.impl" />
       <recent name="com.like.sc.dao" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.lk.sc" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.lk.sc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\project\SpringCloud\cloud-provider-payment8002\src\main\resources" />
+      <recent name="D:\Java\project\SpringCloud\cloud-provider-payment8002\src\main\java" />
+      <recent name="D:\Java\project\SpringCloud\cloud-eureka-server7002\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sc" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\project\SpringCloud\cloud-provider-payment8001\src\main\java\com\like\sc\dao" />
       <recent name="D:\Java\project\SpringCloud\cloud.provider-payment8001\src\main\resources" />
     </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8001/payment/save" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="likehello123123333123123123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:80/consumer/payment/save" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="likehello123123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:80/consumer/payment/save" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="likehello" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:80/consumer/payment/save" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="likeznmv" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:80/consumer/payment/save" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="like4444" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:80/consumer/payment/save" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="liek" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:80/consumer/payment/get/31" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:80/consumer/consumer/payment/get/31" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:80/consumer/consumer/payment/save" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="serial" />
+                <option name="value" value="like" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:80/consumer/consumer/payment/save" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="&quot;serial" />
+                <option name="value" value="like" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -90,49 +260,50 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CloudPayment8001">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+  <component name="RunManager" selected="Spring Boot.CloudPayment8002">
+    <configuration name="CloudEureka7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.sc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.sc.CloudEureka7001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rest-api#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" runType="运行单个请求">
-      <method v="2" />
-    </configuration>
-    <configuration name="PaymentServiceImplTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cloud-provider-payment8001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.like.sc.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.like.sc.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.like.sc.service.impl.PaymentServiceImplTest" />
-      <option name="METHOD_NAME" value="create" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="CloudEureka7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.sc.CloudEureka7002" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.like.sc在cloud-provider-payment8001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cloud-provider-payment8001" />
+    <configuration name="CloudGateway9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-gateway-gateway-9527" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.like.sc.*" />
+          <option name="PATTERN" value="com.lk.sc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.like.sc" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.sc.CloudGateway9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudOpenFeignHsytrixOrder80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-openfegin-hsytrix-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.sc.CloudOpenFeignHsytrixOrder80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudOrder80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.sc.CloudOrder80" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,18 +322,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CloudPayment8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.sc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.sc.CloudPayment8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudPaymentHsytrix8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.sc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.sc.CloudPaymentHsytrix8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="HTTP 请求.rest-api#1" />
-      <item itemvalue="JUnit.PaymentServiceImplTest.create" />
-      <item itemvalue="JUnit.com.like.sc在cloud-provider-payment8001" />
+      <item itemvalue="Spring Boot.CloudEureka7002" />
+      <item itemvalue="Spring Boot.CloudOrder80" />
+      <item itemvalue="Spring Boot.CloudOpenFeignHsytrixOrder80" />
+      <item itemvalue="Spring Boot.CloudEureka7001" />
       <item itemvalue="Spring Boot.CloudPayment8001" />
+      <item itemvalue="Spring Boot.CloudPaymentHsytrix8001" />
+      <item itemvalue="Spring Boot.CloudGateway9527" />
+      <item itemvalue="Spring Boot.CloudPayment8002" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.CloudGateway9527" />
         <item itemvalue="Spring Boot.CloudPayment8001" />
-        <item itemvalue="JUnit.com.like.sc在cloud-provider-payment8001" />
-        <item itemvalue="JUnit.PaymentServiceImplTest.create" />
-        <item itemvalue="HTTP 请求.rest-api#1" />
+        <item itemvalue="Spring Boot.CloudEureka7001" />
+        <item itemvalue="Spring Boot.CloudPayment8002" />
+        <item itemvalue="Spring Boot.CloudPaymentHsytrix8001" />
       </list>
     </recent_temporary>
   </component>
@@ -180,21 +382,48 @@
       <workItem from="1598714001418" duration="362000" />
       <workItem from="1598742986774" duration="7925000" />
       <workItem from="1598759796476" duration="894000" />
+      <workItem from="1598790082632" duration="178000" />
+      <workItem from="1598790285332" duration="1784000" />
+      <workItem from="1598792102785" duration="1094000" />
+      <workItem from="1598834557039" duration="23526000" />
+      <workItem from="1598952238260" duration="8112000" />
+      <workItem from="1599031344258" duration="2345000" />
+      <workItem from="1599033781969" duration="568000" />
+      <workItem from="1599034399712" duration="9333000" />
+      <workItem from="1599129129903" duration="4072000" />
+      <workItem from="1600251588936" duration="340000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="627" y="329" key="#Notifications" timestamp="1599129289331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="329" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1599129289331" />
+    <state x="692" y="407" width="510" height="274" key="#Vim_Emulation" timestamp="1598792306505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="692" y="407" width="510" height="274" key="#Vim_Emulation/0.0.1920.1040@0.0.1920.1040" timestamp="1598792306505" />
+    <state x="773" y="292" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1598957583792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="292" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598957583792" />
     <state x="552" y="178" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598759534357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598759534357" />
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1598705499162">
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1599132821581">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598705499162" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599132821581" />
     <state x="827" y="337" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598743044027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -203,14 +432,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="617" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598713416651" />
-    <state x="587" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1598713607837">
+    <state x="587" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599031928754">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="587" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598713607837" />
+    <state x="587" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599031928754" />
     <state x="661" y="387" width="660" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598755989747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="387" width="660" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1598755989747" />
+    <state x="619" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1599031882224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="619" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1599031882224" />
     <state x="609" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598713839318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -219,58 +452,78 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598745128803" />
-    <state x="440" y="94" key="#项目结构" timestamp="1598755788559">
+    <state x="440" y="94" key="#项目结构" timestamp="1600251607096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1598755788559" />
-    <state x="740" y="235" key="FileChooserDialogImpl" timestamp="1598743113068">
+    <state x="440" y="94" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1600251607096" />
+    <state x="740" y="235" key="FileChooserDialogImpl" timestamp="1599133229633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="235" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598743113068" />
-    <state width="1611" height="410" key="GridCell.Tab.0.bottom" timestamp="1598760698669">
+    <state x="740" y="235" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599133229633" />
+    <state x="802" y="421" key="Github.CreateGistDialog" timestamp="1599130384903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1611" height="410" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
-    <state width="1611" height="410" key="GridCell.Tab.0.center" timestamp="1598760698669">
+    <state x="802" y="421" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599130384903" />
+    <state width="1420" height="298" key="GridCell.Tab.0.bottom" timestamp="1600251774838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1611" height="410" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
-    <state width="1611" height="410" key="GridCell.Tab.0.left" timestamp="1598760698669">
+    <state width="1420" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
+    <state width="1420" height="298" key="GridCell.Tab.0.center" timestamp="1600251774838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1611" height="410" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
-    <state width="1611" height="410" key="GridCell.Tab.0.right" timestamp="1598760698669">
+    <state width="1420" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
+    <state width="1420" height="298" key="GridCell.Tab.0.left" timestamp="1600251774838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1611" height="410" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
-    <state width="1611" height="410" key="GridCell.Tab.1.bottom" timestamp="1598760698669">
+    <state width="1420" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
+    <state width="1420" height="298" key="GridCell.Tab.0.right" timestamp="1600251774838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1611" height="410" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
-    <state width="1611" height="410" key="GridCell.Tab.1.center" timestamp="1598760698669">
+    <state width="1420" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
+    <state width="1420" height="298" key="GridCell.Tab.1.bottom" timestamp="1600251774838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1611" height="410" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
-    <state width="1611" height="410" key="GridCell.Tab.1.left" timestamp="1598760698669">
+    <state width="1420" height="298" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
+    <state width="1420" height="298" key="GridCell.Tab.1.center" timestamp="1600251774838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1611" height="410" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
-    <state width="1611" height="410" key="GridCell.Tab.1.right" timestamp="1598760698669">
+    <state width="1420" height="298" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
+    <state width="1420" height="298" key="GridCell.Tab.1.left" timestamp="1600251774838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1611" height="410" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598760698669" />
+    <state width="1420" height="298" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
+    <state width="1420" height="298" key="GridCell.Tab.1.right" timestamp="1600251774838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1420" height="298" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
+    <state width="1481" height="339" key="GridCell.Tab.2.bottom" timestamp="1599129546165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="339" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599129546165" />
+    <state width="1481" height="339" key="GridCell.Tab.2.center" timestamp="1599129546165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="339" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599129546165" />
+    <state width="1481" height="339" key="GridCell.Tab.2.left" timestamp="1599129546165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="339" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599129546165" />
+    <state width="1481" height="339" key="GridCell.Tab.2.right" timestamp="1599129546165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1481" height="339" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599129546165" />
     <state x="531" y="335" width="858" height="583" key="Registry" timestamp="1598759721329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="531" y="335" width="858" height="583" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1598759721329" />
-    <state x="80" y="280" width="1517" height="711" key="SettingsEditor" timestamp="1598760689882">
+    <state x="166" y="294" width="1517" height="746" key="SettingsEditor" timestamp="1599129467268">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="80" y="280" width="1517" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598760689882" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1598755806822">
+    <state x="166" y="294" width="1517" height="746" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599129467268" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599031614365">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1598755806822" />
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1599031614365" />
     <state x="801" y="420" key="UiDebugger" timestamp="1598759689822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -279,17 +532,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="759" y="301" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598755983513" />
+    <state x="435" y="113" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598860671570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="435" y="113" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598860671570" />
     <state x="731" y="347" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598712692029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="731" y="347" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598712692029" />
-    <state x="490" y="180" key="new project wizard" timestamp="1598755742804">
+    <state x="0" y="0" width="1567" height="686" key="dock-window-1" timestamp="1598848085083">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="490" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598755742804" />
-    <state x="643" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1598712554702">
+    <state x="0" y="0" width="1567" height="686" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1598848085083" />
+    <state x="678" y="193" key="new project wizard" timestamp="1599133236069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="643" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598712554702" />
+    <state x="678" y="193" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599133236069" />
+    <state x="829" y="597" width="600" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1598845307775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="829" y="597" width="600" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598845307775" />
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1599031615748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599031615748" />
+    <state x="643" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1599033793046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599033793046" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

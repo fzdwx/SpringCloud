@@ -12,21 +12,23 @@
     <artifactId>cloud-provider-payment8001</artifactId>
 
     <dependencies>
-        <!--  &lt;!&ndash;包含了sleuth+zipkin&ndash;&gt;
-          <dependency>
+        <!--引入自己定义的api-->
+        <dependency>
+            <groupId>com.like</groupId>
+            <artifactId>cloud-api-common</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+          <!--包含了sleuth+zipkin-->
+        <!--  <dependency>
               <groupId>org.springframework.cloud</groupId>
               <artifactId>spring-cloud-starter-zipkin</artifactId>
-          </dependency>
-          &lt;!&ndash;eureka-client&ndash;&gt;
+          </dependency>-->
+
+          <!--eureka-client-->
           <dependency>
               <groupId>org.springframework.cloud</groupId>
               <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
           </dependency>
-          <dependency>&lt;!&ndash; 引入自己定义的api通用包，可以使用Payment支付Entity &ndash;&gt;
-              <groupId>com.atguigu.springcloud</groupId>
-              <artifactId>cloud-api-commons</artifactId>
-              <version>${project.version}</version>
-          </dependency>-->
         <!--web-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -57,24 +59,11 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jdbc</artifactId>
         </dependency>
-        <!--热部署-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
             <scope>runtime</scope>
             <optional>true</optional>
-        </dependency>
-        <!--lombok-->
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <optional>true</optional>
-        </dependency>
-        <!--test-->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
         </dependency>
     </dependencies>
 
