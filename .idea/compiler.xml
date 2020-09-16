@@ -18,11 +18,13 @@
         <module name="cloud-gateway-gateway-9527" />
         <module name="cloud-consumer-order80" />
         <module name="cloud-provider-hystrix-payment8001" />
+        <module name="cloud-config-client-3355" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="cloud-api-common" target="1.8" />
       <module name="cloud-config-center-3344" target="1.8" />
+      <module name="cloud-config-client-3355" target="1.8" />
       <module name="cloud-consumer-openfegin-hsytrix-order80" target="1.8" />
       <module name="cloud-consumer-openfegin-order80" target="1.8" />
       <module name="cloud-consumer-order80" target="1.8" />
@@ -40,6 +42,7 @@
       <module name="SpringCloud" options="-parameters" />
       <module name="cloud-api-common" options="-parameters" />
       <module name="cloud-config-center-3344" options="-parameters" />
+      <module name="cloud-config-client-3355" options="-parameters" />
       <module name="cloud-consumer-openfegin-hsytrix-order80" options="-parameters" />
       <module name="cloud-consumer-openfegin-order80" options="-parameters" />
       <module name="cloud-consumer-order80" options="-parameters" />

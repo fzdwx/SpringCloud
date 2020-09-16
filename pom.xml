@@ -16,6 +16,7 @@
         <module>cloud-consumer-openfegin-hsytrix-order80</module>
         <module>cloud-gateway-gateway-9527</module>
         <module>cloud-config-center-3344</module>
+        <module>cloud-config-client-3355</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
