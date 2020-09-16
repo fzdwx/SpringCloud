@@ -261,6 +261,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.CloudPayment8002">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CloudEureka7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-eureka-server7001" />
       <extension name="coverage">
@@ -297,6 +308,13 @@
     <configuration name="CloudOpenFeignHsytrixOrder80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-openfegin-hsytrix-order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.sc.CloudOpenFeignHsytrixOrder80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudOpenFeignOrder80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-openfegin-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.sc.CloudOpenFeignOrder80" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -357,6 +375,7 @@
       <item itemvalue="Spring Boot.CloudPaymentHsytrix8001" />
       <item itemvalue="Spring Boot.CloudGateway9527" />
       <item itemvalue="Spring Boot.CloudPayment8002" />
+      <item itemvalue="Spring Boot.CloudOpenFeignOrder80" />
     </list>
     <recent_temporary>
       <list>
@@ -391,7 +410,7 @@
       <workItem from="1599033781969" duration="568000" />
       <workItem from="1599034399712" duration="9333000" />
       <workItem from="1599129129903" duration="4072000" />
-      <workItem from="1600251588936" duration="340000" />
+      <workItem from="1600251588936" duration="1416000" />
     </task>
     <servers />
   </component>
@@ -452,10 +471,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598745128803" />
-    <state x="440" y="94" key="#项目结构" timestamp="1600251607096">
+    <state x="440" y="94" key="#项目结构" timestamp="1600253436618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1600251607096" />
+    <state x="440" y="94" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1600253436618" />
     <state x="740" y="235" key="FileChooserDialogImpl" timestamp="1599133229633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -464,38 +483,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="802" y="421" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599130384903" />
-    <state width="1420" height="298" key="GridCell.Tab.0.bottom" timestamp="1600251774838">
+    <state width="1420" height="328" key="GridCell.Tab.0.bottom" timestamp="1600253260896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
-    <state width="1420" height="298" key="GridCell.Tab.0.center" timestamp="1600251774838">
+    <state width="1420" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600253260896" />
+    <state width="1420" height="328" key="GridCell.Tab.0.center" timestamp="1600253260896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
-    <state width="1420" height="298" key="GridCell.Tab.0.left" timestamp="1600251774838">
+    <state width="1420" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600253260896" />
+    <state width="1420" height="328" key="GridCell.Tab.0.left" timestamp="1600253260896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
-    <state width="1420" height="298" key="GridCell.Tab.0.right" timestamp="1600251774838">
+    <state width="1420" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600253260896" />
+    <state width="1420" height="328" key="GridCell.Tab.0.right" timestamp="1600253260896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
-    <state width="1420" height="298" key="GridCell.Tab.1.bottom" timestamp="1600251774838">
+    <state width="1420" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600253260896" />
+    <state width="1420" height="328" key="GridCell.Tab.1.bottom" timestamp="1600253260896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
-    <state width="1420" height="298" key="GridCell.Tab.1.center" timestamp="1600251774838">
+    <state width="1420" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600253260896" />
+    <state width="1420" height="328" key="GridCell.Tab.1.center" timestamp="1600253260896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
-    <state width="1420" height="298" key="GridCell.Tab.1.left" timestamp="1600251774838">
+    <state width="1420" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600253260896" />
+    <state width="1420" height="328" key="GridCell.Tab.1.left" timestamp="1600253260896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
-    <state width="1420" height="298" key="GridCell.Tab.1.right" timestamp="1600251774838">
+    <state width="1420" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600253260896" />
+    <state width="1420" height="328" key="GridCell.Tab.1.right" timestamp="1600253260896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1420" height="298" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600251774838" />
+    <state width="1420" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600253260896" />
     <state width="1481" height="339" key="GridCell.Tab.2.bottom" timestamp="1599129546165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -544,10 +563,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" width="1567" height="686" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1598848085083" />
-    <state x="678" y="193" key="new project wizard" timestamp="1599133236069">
+    <state x="981" y="340" key="new project wizard" timestamp="1600253302602">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="678" y="193" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599133236069" />
+    <state x="981" y="340" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600253302602" />
     <state x="829" y="597" width="600" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1598845307775">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
