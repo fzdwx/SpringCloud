@@ -300,6 +300,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CloudConfigClient3366" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.sc.CloudConfigClient3366" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CloudEureka7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-eureka-server7001" />
       <extension name="coverage">
@@ -394,6 +401,7 @@
       <item itemvalue="Spring Boot.CloudPaymentHsytrix8001" />
       <item itemvalue="Spring Boot.CloudConfigClient3355" />
       <item itemvalue="Spring Boot.CloudPayment8002" />
+      <item itemvalue="Spring Boot.CloudConfigClient3366" />
     </list>
     <recent_temporary>
       <list>
@@ -428,7 +436,7 @@
       <workItem from="1599033781969" duration="568000" />
       <workItem from="1599034399712" duration="9333000" />
       <workItem from="1599129129903" duration="4072000" />
-      <workItem from="1600251588936" duration="6308000" />
+      <workItem from="1600251588936" duration="6696000" />
     </task>
     <servers />
   </component>
