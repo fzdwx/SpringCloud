@@ -26,6 +26,12 @@
         </repository>
     </repositories>
     <dependencies>
+        <!-- 引入自己定义的api通用包，可以使用Payment支付Entity -->
+        <dependency>
+            <groupId>com.like</groupId>
+            <artifactId>cloud-api-common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
         <!--SpringCloud ailibaba nacos -->
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
