@@ -76,7 +76,7 @@
     <property name="project.structure.proportion" value="0.1507799" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -264,17 +264,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.CloudAlibabaNacos9001">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CloudAlibabaNacos9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloudalibaba-provider-payment9001" />
       <extension name="coverage">
@@ -496,6 +485,8 @@
       <workItem from="1600309786150" duration="12181000" />
       <workItem from="1600432050969" duration="700000" />
       <workItem from="1600477036281" duration="17739000" />
+      <workItem from="1600560395891" duration="10552000" />
+      <workItem from="1600583183407" duration="1526000" />
     </task>
     <servers />
   </component>
@@ -628,10 +619,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="531" y="335" width="858" height="583" key="Registry/0.0.1920.1040@0.0.1920.1040" timestamp="1598759721329" />
-    <state x="20" y="235" width="1517" height="746" key="SettingsEditor" timestamp="1600312696321">
+    <state x="20" y="235" width="1517" height="746" key="SettingsEditor" timestamp="1600572360398">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="20" y="235" width="1517" height="746" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600312696321" />
+    <state x="20" y="235" width="1517" height="746" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600572360398" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1599031614365">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -668,10 +659,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599031615748" />
-    <state x="643" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1599033793046">
+    <state x="643" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1600583968051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="643" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599033793046" />
+    <state x="643" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600583968051" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
