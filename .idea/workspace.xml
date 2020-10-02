@@ -264,6 +264,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.CloudAlibabaNacos9001">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CloudAlibabaNacos9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloudalibaba-provider-payment9001" />
       <extension name="coverage">
@@ -486,7 +497,8 @@
       <workItem from="1600432050969" duration="700000" />
       <workItem from="1600477036281" duration="17739000" />
       <workItem from="1600560395891" duration="10552000" />
-      <workItem from="1600583183407" duration="1526000" />
+      <workItem from="1600583183407" duration="1527000" />
+      <workItem from="1600749568587" duration="3822000" />
     </task>
     <servers />
   </component>
